@@ -1,7 +1,7 @@
 
 # -*- coding:utf-8 -*-
 
-# 插入排序
+# 希尔排序
 class Shell(object):
     def __init__(self, list):
         self.__list = list 
